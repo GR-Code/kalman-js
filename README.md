@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/GR-Code/kalman-js/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +35,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ -->
+
+# Description
+This repo was the first attempt at hosting a Github Page for my JavaScript version of the Kalman Filter for mouse tracking.
+
+`matrix.js` is a Matrix library written in scratch for this project. The Kalman Filter class is defined in `sketch.js`. I've used the p5.js library for interactions/graphics on the page.
+
+Theory involved : [Here](http://www.cs.unc.edu/~welch/kalman/kalmanIntro.html)
+Python version : [Here](https://github.com/GR-Code/kalman-py)
